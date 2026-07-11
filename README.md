@@ -1,5 +1,13 @@
 # 📊 Subscription Revenue Analytics Dashboard
 
+# 📈 Dashboard Preview
+
+![Dashboard Preview](<p align="center">
+<img src="images_dashboard.png" width="100%">
+</p>)
+
+---
+
 An interactive Business Intelligence dashboard built with **Tableau Public** to analyze subscription-based revenue performance. The dashboard enables product managers and business stakeholders to monitor revenue trends, customer growth, and churn through key SaaS metrics.
 
 ---
@@ -29,12 +37,6 @@ Develop an interactive dashboard that enables stakeholders to:
 - Evaluate revenue expansion and contraction
 - Identify monthly revenue trends
 - Filter results by date, user language, and user age
-
----
-
-# 📈 Dashboard Preview
-
-![Dashboard Preview](images_dashboard.png)
 
 ---
 
@@ -123,7 +125,6 @@ This project demonstrates practical experience with:
 
 Possible future enhancements include:
 
-- SQL-based KPI calculations
 - Forecasting future MRR
 - Cohort Analysis
 - Customer Segmentation
@@ -137,4 +138,4 @@ Possible future enhancements include:
 
 **Hazal Yolu**
 
-If you have any feedback or suggestions, feel free to connect with me.
+Aspiring Data Analyst passionate about Business Intelligence, Data Visualization, and Analytics.
